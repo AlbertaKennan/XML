@@ -1,0 +1,44 @@
+<school>
+    <students>
+        <student>
+            <id>1</id>
+            <name>John Doe</name>
+            <age>18</age>
+            <courses>
+                <course>Mathematics</course>
+                <course>Physics</course>
+            </courses>
+        </student>
+        <student>
+            <id>2</id>
+            <name>Jane Smith</name>
+            <age>17</age>
+            <courses>
+                <course>Chemistry</course>
+                <course>Biology</course>
+            </courses>
+        </student>
+    </students>
+    <courses>
+        <course>
+            <name>Mathematics</name>
+            <teacher>Mr. Johnson</teacher>
+            <schedule>Monday, Wednesday, Friday</schedule>
+        </course>
+        <course>
+            <name>Physics</name>
+            <teacher>Ms. Parker</teacher>
+            <schedule>Tuesday, Thursday</schedule>
+        </course>
+        <course>
+            <name>Chemistry</name>
+            <teacher>Dr. Smith</teacher>
+            <schedule>Monday, Wednesday</schedule>
+        </course>
+        <course>
+            <name>Biology</name>
+            <teacher>Ms. Lee</teacher>
+            <schedule>Tuesday, Thursday</schedule>
+        </course>
+    </courses>
+</school>
